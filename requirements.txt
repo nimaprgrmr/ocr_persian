@@ -1,6 +1,6 @@
-opencv
-pytesseract
-matplotlib
-skimage
+opencv==4.9.0
+pytesseract==0.3.10
+matplotlib==3.8.2
+skimage==0.22.0
 deskew
-numpy
+numpy==1.26.2
